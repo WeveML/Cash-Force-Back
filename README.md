@@ -4,5 +4,8 @@
 ```
 npm install
 ```
-# CONFIG DB 
+## Config DB
 /app/config/db.config.js
+
+## Run
+node server.js
